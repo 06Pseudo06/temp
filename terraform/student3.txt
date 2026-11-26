@@ -1,0 +1,1 @@
+Student 3 details: Name: Charlie, ID: STU003, Major: DevOps

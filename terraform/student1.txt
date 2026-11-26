@@ -1,0 +1,1 @@
+Student 1 details: Name: Alice, ID: STU001, Major: Computer Science

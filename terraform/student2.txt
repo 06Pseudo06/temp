@@ -1,0 +1,1 @@
+Student 2 details: Name: Bob, ID: STU002, Major: Data Engineering
